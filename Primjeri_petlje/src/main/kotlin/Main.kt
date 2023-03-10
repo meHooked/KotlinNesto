@@ -177,14 +177,4 @@ fun main(args: Array<String>) {
             println("$i, $j")
         }
     }
-
-
-
-
-
-
-
-
-
-
 }
