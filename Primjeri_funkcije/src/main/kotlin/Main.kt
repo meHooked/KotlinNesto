@@ -37,8 +37,15 @@ fun main(args: Array<String>) {
     firstAndSecondAndThird(second = 3, third = 7 , first = 8)
     firstAndSecondAndThirdAndFourth(1, 3, fourth = 7, third = 3)
 
+    val a = 1
+    val b = 1
+    println(addNumbers(a, b))
+    println(addNumbers(3 as Number,3 as Number))
+
+
 
 }
+
 
 fun addNumbers(num1: Int, num2: Int): Int {
     return num1 + num2
@@ -82,4 +89,9 @@ fun firstAndSecondAndThird(first: Int = 1, second: Int = 2, third:Int = 3){
 
 fun firstAndSecondAndThirdAndFourth(first: Int = 1, second: Int = 2, third:Int = 3, fourth:Int = 4){
     println("First: $first, Second: $second, Third: $third, Fourth: $fourth")
+}
+
+fun addNumbers(a: Number , b: Number): Number{
+    println("Hi")
+    return a.toDouble() + b.toDouble()
 }
