@@ -48,8 +48,6 @@ fun main(args: Array<String>) {
     Napravite funkciju isPalindrome() koja će za predani string vratiti true ukoliko je string palindrom i false ukoliko nije.
 (Napomena: rijec je palindrom ukoliko se jednako cita s pocetka i s kraja, "ana" je palindrom , "ananas" nije)
      */
-
-
 }
 
 
