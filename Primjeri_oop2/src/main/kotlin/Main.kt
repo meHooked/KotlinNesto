@@ -7,6 +7,15 @@ fun main(args: Array<String>) {
     //Interface Animal koji ce implementirati svaka od zivotinja - fun makeSound()
     //Definirajmo 3 klase - Dog, Cat, Parrot i nek svaka od njih definira svoje glasanje
     //Napravimo for petlju, izgenerirajmo 5 random zivotinja i ispisimo njihovo glasanje
+    animalExample()
+}
+
+fun animalExample() {
+    val animalFactory = AnimalFactory()
+    for(i in 0 until 5){
+        val animal = animalFactory.getAnimal()
+        animal.makeSound()
+    }
 }
 
 fun interfaceExample() {
