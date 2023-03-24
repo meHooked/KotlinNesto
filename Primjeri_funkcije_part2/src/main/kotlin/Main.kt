@@ -127,6 +127,9 @@ fun main(args: Array<String>) {
     println(listSum)
 
     //Istraziti koji kod se najbrze izvrsava - vidi zadatak 1
+
+    //Rjesenje zadatka za DZ
+    println(maxByMiddleDigit(threeDigitNumbers))
 }
 
 fun middleDigit(n: Int) : Int {
@@ -185,4 +188,17 @@ fun createUser(vararg roles: String, username: String, age: Int){
         print("$role ")
     }
     print("$username $age\n")
+}
+
+fun maxByMiddleDigit(lists: List <Int>): Int {
+    var y = lists[0]
+    for (l in lists) {
+        if (getMiddleDigit(l) > getMiddleDigit(y)){
+            y = l
+        }
+    }
+    return y
+}
+fun getMiddleDigit(x : Int) : Int {
+    return x / 10 % 10
 }

@@ -1,0 +1,3 @@
+class BorderCollie : Dog() {
+
+}
