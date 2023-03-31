@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e30ea2d9-a8e2-40cc-bdde-3fb53c5f99f8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Primjeri_grananja_when/Primjeri_grananja_when.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primjeri_oop1/Primjeri_oop1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primjeri_oop2/Primjeri_oop2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Primjeri_packages/Primjeri_packages.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vjezba_oop1/Vjezba_oop1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vjezbe1/Vjezbe1.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2NmnruQczBj7PIyO5Mc4YKvFvdz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/rdean/git_workshop/github/KotlinVjezbe"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e30ea2d9-a8e2-40cc-bdde-3fb53c5f99f8" name="Changes" comment="" />
+      <created>1680278326163</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680278326163</updated>
+    </task>
+    <servers />
+  </component>
+</project>
