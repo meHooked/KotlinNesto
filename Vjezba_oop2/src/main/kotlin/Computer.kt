@@ -13,7 +13,47 @@ class Computer(val type: ComputerType, val processorName: String) : ComputerSwit
 
     override fun bootUp(speed: Double): Double {
         if(type == ComputerType.NEW){
-            return ComputerType.getBootSpeed(type)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         }
         return super.bootUp(speed)
     }
