@@ -10,6 +10,7 @@
       <change beforePath="$PROJECT_DIR$/Primjeri_packages/Primjeri_packages.iml" beforeDir="false" />
 =======
     <list default="true" id="e30ea2d9-a8e2-40cc-bdde-3fb53c5f99f8" name="Changes" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/Primjeri_grananja_when/Primjeri_grananja_when.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Primjeri_oop1/Primjeri_oop1.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Primjeri_oop2/Primjeri_oop2.iml" beforeDir="false" />
@@ -17,6 +18,9 @@
       <change beforePath="$PROJECT_DIR$/Vjezba_oop1/Vjezba_oop1.iml" beforeDir="false" />
 >>>>>>> ab9c699c44a6e008d8393d18fff46c1ce4db200e
       <change beforePath="$PROJECT_DIR$/Vjezbe1/Vjezbe1.iml" beforeDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/Vjezba_oop2/src/main/kotlin/Computer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Vjezba_oop2/src/main/kotlin/Computer.kt" afterDir="false" />
+>>>>>>> 52156bc533ecba2e0caa1cdd92678864c7ca22ed
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +39,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -44,8 +49,15 @@
 =======
     "last_opened_file_path": "/home/rdean/git_workshop/github/KotlinVjezbe"
 >>>>>>> ab9c699c44a6e008d8393d18fff46c1ce4db200e
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/rdean/git_workshop/github/KotlinVjezbe&quot;
+>>>>>>> 52156bc533ecba2e0caa1cdd92678864c7ca22ed
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
